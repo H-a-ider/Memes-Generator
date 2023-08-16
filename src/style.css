@@ -105,7 +105,7 @@ main {
 
 @media(max-width:480px){
     .form--input {
-        width: 30vw;
+        width: 35vw;
         font-family: "Karla", sans-serif;
         border-radius: 5px;
         border: 1px solid #D5D4D8;
@@ -113,7 +113,7 @@ main {
     }
     
     .form--button {
-        width: 40vw;
+        width: 60vw;
         grid-column: 1 / -1;
         font-family: "Karla", sans-serif;
         border-radius: 5px;
