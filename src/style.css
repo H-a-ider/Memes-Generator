@@ -113,7 +113,7 @@ main {
     }
     
     .form--button {
-        width: 50vw;
+        width: 40vw;
         grid-column: 1 / -1;
         font-family: "Karla", sans-serif;
         border-radius: 5px;
